@@ -66,5 +66,5 @@ This project is licensed under the MIT License - feel free to modify and distrib
 ---
 
 ### 💬 Contact
-📧 Email: priyanshverma157@gmail.com  
-📘 LinkedIn: [Your Profile](https://www.linkedin.com/in/priyanshv/)
+📧 **Email:** [priyanshverma157@gmail.com](mailto:priyanshverma157@gmail.com)  
+📘 LinkedIn: [MY Profile](https://www.linkedin.com/in/priyanshv/)
