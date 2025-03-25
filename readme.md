@@ -2,7 +2,7 @@
 
 ### 🚀 A Smart Way to Manage Your Expenses Effortlessly
 
-![Expense Tracker Banner](project images/Screenshot (11).png)
+![alt text](<project images/Screenshot (11).png>)
 
 ## 📌 About This Project
 Expense Tracker is a lightweight, user-friendly desktop application designed to help you monitor your income and expenses in real time. With a sleek dark-themed UI, it provides a smooth experience for tracking and managing your budget efficiently.
@@ -37,7 +37,7 @@ Expense Tracker is a lightweight, user-friendly desktop application designed to 
    ```
 
 ### 🔥 OR Download the Ready-to-Use EXE File
-👉 **[Download Expense Tracker for Windows](https://github.com/priyanshgitthat/income-expense-tracker/blob/main/dist/app.exe)** 
+👉 **[Download Expense Tracker for Windows](https://drive.google.com/file/d/1HeYcopvNJKYwuuhGMQx1xz4jI00nI6xY/view?usp=drive_link)** 
 
 ---
 
