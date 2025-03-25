@@ -42,8 +42,13 @@ Expense Tracker is a lightweight, user-friendly desktop application designed to 
 ---
 
 ## 📸 Screenshots
-📷 *Coming Soon...*
-
+![alt text](<project images/Screenshot (3).png>)
+![alt text](<project images/Screenshot (4).png>)
+![alt text](<project images/Screenshot (5).png>)
+![alt text](<project images/Screenshot (6).png>)
+![alt text](<project images/Screenshot (7).png>)
+![alt text](<project images/Screenshot (8).png>)
+![alt text](<project images/Screenshot (11).png>)
 ---
 
 ## 📜 License
